@@ -4,7 +4,7 @@ This model uses tensorflow and hard for the detection of human face emotions. Te
 # Installation
 Python 3.6.^ < 3.7
 
-Tensorflow v1.6.0 dan
+Tensorflow v1.6.0
 
 Keras v2.0.8
 
